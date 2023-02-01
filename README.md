@@ -1,14 +1,14 @@
-# Mars Runner
+# Mars Runnner
 An easy endless runner
 
 How to open my project. 
 Step 1: Download the zip file
 Step 2: Unpack the zip
-Step 2: Open Unity
-Step 3: In unity click on "Open" this should open a window.
-Step 4: Navigate to the location where you downloaded the files to
-Step 5: Press open when you find the file "Mars-Runner"
-Step 6: Have fun
+Step 3: Open Unity
+Step 4: In unity click on "Open" this should open a window.
+Step 5: Navigate to the location where you downloaded the files to
+Step 6: Press open when you find the file "Mars-Runner"
+Step 7: Have fun
 
 If you wanna play the build you have to follow these steps
 Step 1: open the downloaded file
