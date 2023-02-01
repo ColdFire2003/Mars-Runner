@@ -1,4 +1,4 @@
-# Run-Fireman-Run
+# Mars Runner
 An easy endless runner
 
 How to open my project. 
@@ -25,3 +25,5 @@ The player can collect melon's and with every single one the player collects the
 UI is made by: https://assetstore.unity.com/publishers/47475
 The game sprites are made by: https://assetstore.unity.com/publishers/44925
 Go check them out! They made amazing art and I love to use those.
+
+All the audio is royalty free.
