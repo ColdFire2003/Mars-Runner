@@ -2,7 +2,8 @@
 An easy endless runner
 
 How to open my project. 
-Step 1: Download the files
+Step 1: Download the zip file
+Step 2: Unpack the zip
 Step 2: Open Unity
 Step 3: In unity click on "Open" this should open a window.
 Step 4: Navigate to the location where you downloaded the files to
