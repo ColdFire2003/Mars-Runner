@@ -1,2 +1,2 @@
-# Run-Fireman-Run
-An easy endless runner
+# Mars Runner
+An endless runner
