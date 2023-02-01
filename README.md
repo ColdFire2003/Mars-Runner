@@ -1,4 +1,4 @@
-# Run-Fireman-Run
+# Mars Runner
 An easy endless runner
 
 How to open my project. 
